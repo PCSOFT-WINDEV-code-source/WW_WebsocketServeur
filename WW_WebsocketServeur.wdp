@@ -1,0 +1,108 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_WebsocketServeur
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAADOljj0khMM3dM1azRNHRnVmPOq9Lc3aenlWO7EeZQRHW1WC3aMyd3y4m1YuyGcilQtYbUdb3Qg6PR2y4buDC401Romy9NsW3oK8rxymPXO4EVmpncSgJtQ6YJsXctzEDG30JTHpGcj0tC+1sJBM09g0BZ8kglkgAtRoM6KTgn0BT0RG36uV5YYj9lEYl7MqpI1MNjW+Yjf7oLTg+BAkN8mF96EZ620pK+sMjjB5Bim5SN2LTICeixQ4vCgVc5/V5/Y51G8Q7F9OFnEjSFkd7iiDZX5ccB3whbxaWW0SyJ2YIrh19tr8DTCMALUhh//254hWpHQdWEOnogzY8KYaVYG7WzZEjmPFSkV49oN5pxgRyd85pXeJFDUf/vf0aM9FHxVyMsMtpaepk7N4lpbh9uJsy8Pa/FnEM+moy1jfJSIDGslEXteskuPjU2kd7VbAY23U9k6z5biRa88jC1u6JNn+Tph5dgTat/aonHUty/X4Lk3nf5cSKY4J0w41CNSb18Db21lRRD+y3dKTwUeVQjfGiLpB71SGtySbYixYpYKg7gCAHfUsGxJrmeZJauafbRpSW0SazfIbOLQN915NZnrUAE+Hgd3F9EeG1vZSptKRPUAql+kzYmBFQvrrD+Yx34MPvVn2z+v6JZoaF7qFJeoZijeS8PR/zzFy+K9TRRg61inq1xDkHYAWW2hC2501TWz3PUyowCf8nHd8AtmsqJ7sjNDt8WHeGUMeBzTskCfCUHEK55oMb+JEr6GX1U2yu7RJx1ZctvFnvyx7rB1UApMC+z6XfalIiqyWh6MJGkKtZGDfCBvo5sxzbul/csY5a/MN1Er09x6BAGYWxG8P+o5V6Y9evglJJ6yyOvu7vapmt3cp4xivSXuWHwUgAL4gNCHHcMuvhDSx9iqZR9jB2x1zitgq4Y+0D2yrTrrh3A/qON07roQREkSG+uaNim0V8rFAy6KtWrUSC6w3D3M9+tpTZXxiGjfIeVAcXgJJfEq+lmNKZPw/fNTtAou6NwPnrv8PmR3MVjLBaJzsIq3byBzZrXlDWN34SAWgubhK6dvlkDDhYm+//XK9LyvRZr8vGj6c2uAdR0pVpJpCmzEF7jdGNW039IJwv8JfBiSnz6drKzx/L8NlxDicwVrR/Fffrfvz49DRR6BYtLeiLhyOW6ck15icDvyPOQvpqIhlA3iuT7RTlEJrjjupVJZLkVcCZ30ryQBJUKBPctTN/aL9rdvidzNSvoIxOYC0kVAXStNf/uqxTFKOQNfjv0z3QqSzJ3nDdhr7IBuj43mqiUMMAqJjOMgFoQ/N7ieKjFyez9G1vobyeFGT2YgRWNBPQctxSwujeDK2oXI4Ay6vuZunn8vulFEkpreB3+y9PfZivYEHANNVBK6eKmJsrsnII2YHxQaW5I3JNgfhdXs+tgph/wCByKJLdV6i1eVJOzk0Mdpg2QfAm0F4JluEayGOPdyuA0E//6eIBGma/f/6sgcj/CYe829GfW+D1msIhgiWuSdjbkuSeNZ/IMSnUTw9mHi0T/YHdyrTXHnNJBx4nKL//xIEJrFyBFfrievYjS+NFM0JKl0Wz3CIcYxxRgs9NUsZar2U7m322xXv0UidZQYYyLUlVD3Fyz66QF9r6ivoypvNiJ4z5vnTHiYNnNoE01fn6NdLsd9vPIhDV5NmVc+NEmaQQseGhtAxz/4vPnHdw7Kizwg18LQphFM/l+X5y3QRqoK9dE6zRekl4qbw8Z0T+vxfAvFQZ8PrIWHBg1GX47MExh3CX/vFkVWrAPBMZFoYxbXaRgQfpGZLoNwr8ut5O7Ss28hL4mfmV/Q2SSXHyhcgF2ivI7C8RA4l142DaBW8zoZ8xNCDmWyj913peRceQ==
+ configurations :
+  -
+    name : Serveur de WebSocket
+    internal_properties : CAAAAAgAAAAS05AzEU82d2rFS5UvUQeqQUJ8kWvBNURbijMAkRYvYSgt7XO7s2R12eN9619F2FPVcGDnQIEMwkxRbS8mwm1vmFH6b259RV30ua2bibCDJdGF703bX8VbBNpkmaBWrBGA45o9FwIIX/49M5rcVL1YNXOyKZUzS9GFdTXcevuafacdeiip9OuZOGFntLzxwgrMuIT0f84qiNdcHJ9lj+8OdGurjn19GCuS9Ov4CJ7d5EqJZQf5J7T/HJjEjGHHQWGDy1m9vXscZCS/jd6OzC5hthmrWpkBXQjXBfnFx4CBQ5ruDlr5WIB/mBuILb6CJp19Sb4ipaz1Usma1mZ1lANnRWmr8FojzsG6Q8GNfwldiqY32iXU4c25FVvAY5iy+bbRfJ9CSqQ+f7HnHeojKT6mUF8ovIDjGlr4qauKzeS7ovUIr/XzB8JSR/NmVxzSK3w1Mbvo25+8bEHE1XNRwITCuOTSeElcUaZg/ndgsqpRpZX+TUVGRyNLgw7i7NXoIGBjMrNRm+C7Db43UwiPxXDHJfBnEXx8lDR68ZTq2QwZTa3ab5NXnCStYPallJPFVO/fT7c+0VXCoyXy6nZZ/rt8m+onqvqsSCK+LfrVbJe4Bb3ns0zNged121Mbr9/uqx34FxYXuk8RlKSaip8K4OxJGbLsFiiv0ByDjTaUFdC385XnWfWrgmAAwnHix0alstbFYvQWe3Zcpzi6eMbgd+Pl5n2oR1G49Tegz/w/KV0lZJnc6mQ9LAwNKOgyOpBNweMuga0tuh4w9+6WQ9zpie/XGWiEnJwUNoBE8k45ngG1vFu5YQoZ1070uj67M+m8ms8rN/LdLRWmSeCrVqriPLpeSmpq6mA0dK/RsG922Z/GG6+4dCXzTH8G9ZC1ilyuZ4POr7NnZuvBQzv5aGrX88GCPnmhQc1UK+JBSJUwvJhexqlCATJmn3eNX4JpW+fdMcUeoYBTjmveX0bJuv5Erwy/Al483wbFHzCJyZ7I4fyzhO/+KjBNTgOIgmvgvyNZKWCGkXQkb8RrjDPJ9hOqE1qwRaPzNtfAabbYF2QM8ky5F2TV+lzlW6sAhDeO/1I+bZ+Si0ASYdmfIDOqMkH4Hspzva3XHx5i0Cu+L6SdOGkeT+ckv8dvZp0TE0zYc+EFVwlsKseqSWUkAmQy82aiu7+mjusV9LhX0eN5dfBgDlq5FMmmOudVkkGrGnAcut5tPrYmVqrxrRswUGCNHuJY7mApaegfcXwGLVn4Gt4g41ZBzMkJudWfgz7fvvPyoa7fV63TBfgRNYL6fmjBjqL1jYCrd5/O6tciC4xJ+D0z83km7AAmhuwF8TSpTseugp5jKqINpSuqv6LKl4CEuFtQ4XwyrNMWawjYKXRi4psnC4ssK6zLjVI29qKCwHoeW18ETKogB5UNwnWPhWBkNu1gcV1Uoi8v0KPfOc1lnt6PMfGkljbslVLbVkRhdM7depvS64l7LBmERKBGS4Dwi0BdmECu8+jG2skQ+ucUQJsC93LJX45VzLJUFsqfwW9xIW483uKjEvJADnRoFM5vnA422N9rIUf8cdxVsN4iuDUUFNRVeeE/8qPboVAvuIqNFs/2FFR74Hr5ypRA6t/tzRuUOuH8oRAN1CosONqlxKaym3jngHzvH7aArRHLNatA1woYKBLttC+3mWqhBm8ojZSYgeixEHA6++/iG206PWf6ZkEuHkxVxt1lYqJ3/6/Rp9+cRmBQ/zbA7dYRoNflS0C/OcZ4ln8qAK64d17h89wUls3hHSh/hy4OjL00hDg2GfT5U8NExxakq6QwitLm5nHIS8FibOTpZTRPpo2tGkKrp5S+8ILf+GfSekKZFe0SFq15XlpYOsnYOuHhCGSmzxHFT8KkyMNTntI5P/w/1aroVaPycZAZucdirCVzcgFUKPiDx2AqzNzAK6zs+vFAsDYgY64ag/zPHYjHBP8IfUqbJIggRcwviRIqCD2LJ683tTfqBSQigHwBCiYCNlkWsqZayWfGsCw+cX1rN6GlUmrKC+R3h7pFVhzvKyTXmkzXePcTvSw4eP2QrzWc3mNav5rNKtaO/MklE1M+6aOBEkzs5o7Zg3uUoSgxt2qV+w0egQQLp8x8lywEhOZklZt/Ga+QYEDHnJCKzQAj0X4TTI25xccxMu2NPamiTX66PhGTmGlDZBRPXunslAE26aeb6AskYyciyyPyGJxExHN3OID3hG0JjZjCTsr1cCfdbYEfUSFUyWd5YJ++rn2rNxK7APV1lNJO6r5i690+1PagFk03T+meqgKpcDGftHk/oUg7SGVmfitNDHF67s9eALFOU/Hl/9VyRaMJOaCMQXauyg5/uiYeWguBTjGTHdKvPhuATrvRl7SDAGEyJGnRni6A5KyP36wWZqQWBr4KbvDfl6qZcyJhIRyLoX+ZB0Y8TuQbDdVPze3MT5+2qrCLj7Vrbz6zL49EXESVBn81KjVCJNg2gEQOixzizrS5/GSOOOw+njQIodGqpx8gQzvy7JhCvDaQkG6wBMphkNg1dZ3IpHqyuHczX0oJmoaNS/EVMPQCg1fKi6Frd/nj58OojgfbrZUe1gdaMXvKZICduTfS0Lnlj8DR5chqx2VL9gvXM8iWNoKpCoWZWRCQ9HQR4uXv6F9FX1ckN657YDYBN4+hff8B3EClVexpWQzPWJXPgFY6JVHvD1txu+MRJhaViTTv24SuTv60gddM/hHC4fkCCqrScehjCB5uJgllVLm/wCiQi8s1EPompjlORjbzdiWSbzraERsHED83RXNbx/PkblD8pdMYBO7IxJMXiSq6cj5hSPikvgAlHDazvW8VJ77rcbdIP+9PJtzNf0T64eInU1PcddE6JBUjQCBXXft++ZvjIfcNj1T7h1S23s5xB8JlQPzHcPUhwXNbwSoWG190IA6V89dkOJkjdIpaauR8ddYQWU0qOgp3xl29kjTqXE+Vhy0WDNaOHDgqlcxgJcy8xv33TW+Zj8NDJ1rMaJ9QmwfET3HzJI5Wma0/ZZPI052ju6kADbLVQDtXL1xUitmh14+IxW/ZFLVP7wgqiz3WhWX1n9xMp8MkOD2XEDxNQXsUfKk3sgtGIGTWjn89e/T3m4Bu+lvqq2oY5B2bayrenKjSmr+J0g5Rf+Ab89HGIC8aYEmfvdQFWB0rqYJcf6K8/uQTf7lvr6OQDFXBSwwafb33pbmL+PiGOKvgXJuhZWQcZPPX/TjA8xgutoPovRHAYmXmnJZ4Pr6swCr+ntFcW9ZIfEnhal9vx1m5LUY4oioH09h3FdJRCjKZqxp0mUEKMBC5Afi7K4PZc+L5y4c37lzwlMWn7DME0CxEVGE9eSQk/urN19JdHuOffUYRXIllL9EzM+BgWlbcLnWFD9YJTCxnlbis4dyOENYTCyaLZ2P84k9kEC6QTXfO+rLtjsmIpliINnslpaa2WotDEVTdSGacMLmCG9fJ75fYunK1MeiccLgy6tp9GE3M4NFDZgWuqKdiBkO1VcarAWAydulkf7rgGKGlxuSlOdAjx/0aTFLK4sM60j3WQWiy6lS314ih54VwbCEfyyo7bT2dJ2/RLB0iulv7mDDwGLOFS8cmfHDVRa/YJJKWyxwX7eSvOEk8zPE1g4J+NNR6tvmTmVcoi1Tj8cCDqP9QbhddPXp67CA78f4cWIbp6p97aVX8ucOQ3IJVTVqmsOJlpUqh87OaOdBXTWS7+Bn7q7S6pNNb11MW1EG+BhBqFUAxu2b5okxurnXRD4OskiozZ3BkCISB3AMLkSaQYZrnmW7gnKYSTECI1J+voW/a/QX1o3GcL5ZXEXLkhH/JgdqlGwHOYqTxOPlnTa5/1IPKsphJeYaSpJgUxlGAnBoxzNdxU9JuNWQnCflnL6fXU1Ne6M4bFVV79mRBz17glcr1/4j02icvP67+1B3oUE03YiDq6ob6HQkMGtKLD0XAskNZMbXeJt+RaCMEkLTJ3oy/A98hdW5xLS0hK/JgrMq2eyAa4gWBCPJrTbAAnNTCxKJGAmqO7piqPdV/SW/91qjFHcq4/nPn9/KJh9zSUvstBhHcEGRPuCmf304OEgRqdPILb/+6enEIB2Glr8iQnbDqsr+XCe0UKj5iVp9cFG6RwvHVYyFaZc4E8LVve/QPW32lLzQYyL11uJSYROJ1Div0oqElIUvKvDv+bIEtM3ObhDD7CRVASRh9fQp35dHPa5q1T+gqXszzag3vLXZ6R8Inh2kyJLB0q5JdXgVS73ynAgBznQhAV8ZJKWKuuPMoVu4IPLxMjIdZ6AvJf4B4sSU50XAifOLzm5uq6AsgCB70adIkVHbTYLEjA8E4QgUswnsaVNlv+exAj+OP6Q25pujUhq/Hwdqt2c7wmhV29oDyLTPKioITjNkkjmozX5/GmU0gJE9v4dVmyZhgeBZRDv8tZLygXKDf96DuhmFzZdGUOjOOcvWGG24uJLbeRGwPNzvFGl0afuJjFnkzNc5zRxLvCbyllxzdHd1v7QAb6TxoGP0HSsAy/SR4ljThtyCUKl8TAXqnalTOnAAFHOCSHxf1uQgHSQU6geCeF4DmPh8mMz1B7+Z2Dyes+HUa8ZlOPRIJf2tC2ouzQmbGGmlmwgBZQynUXES0ougDey2R06+7TnY3LWpu1UO2Cld1CTAxccAJc2FzWcE78gCjeTLqm3T6aLBw6LV4H9p5UphSGmDVdPYAvHqnKhfiC9ClqiYfZAdUezGKbtW7/aOa3sN6N9faxTV0N61TkLfsUfTNlKhzxnDTEcOBeFXQeA==
+    configuration_id : 1015293267679748283
+    type : 25
+    generation_directory : .\Exe\Serveur de WebSocket
+    generation_name : .\WW_WebsocketServeur.wdl
+    version :
+     version : 1.00Ay
+     internal_generation_version : 24
+    language : 1
+ elements :
+  identifier : 0x4059c673000424b1
+  elements :
+   -
+     name : COL_WEBSOCKET
+     identifier : 0x4059d5f2002cae4f
+     internal_properties : CAAAAAgAAAC+pJaKOWZOYXr737zb8rdWLk/lDaBVc8midlGE++UvgbNjzNJF8z+WQ/Hr1V2Tb2Grqw==
+     physical_name : .\COL_WEBSOCKET.wdg
+     type : 7
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ data_directory : <RepExeOuRepDonneesCommun>
+ wb_skin : 220 BStrap
+ wb_color_palette : BStrap
+ site_type : 2
+ languages :
+  - fr-FR
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAABoUUdeDQoI53sd/WjCd33B9EOxrdE+IMIQX/UbgYADz/a/lodo4GfypglYipqq8CbA4eo23BBz++rufpYATCetTkVmCPyVAcA=
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Serveur de WebSocket
+     identifier : 0x4059c673000524b1
+     code_elements :
+      type_code : 159
+      p_codes :
+       -
+         code : |1-
+          PROCEDURE Connexion( Client est un websocketClient )
+          
+          	// Traite la connexion
+          	COL_WEBSOCKET.SurNouvelleConnexion( Client )	
+         type : 196629
+       -
+         code : |1-
+          PROCEDURE ReceptionMessage( Client est un websocketClient, vMessage est un Variant )
+          		
+          	jsMessage est un json = vMessage
+          	
+          	// Traite le message reçu
+          	COL_WEBSOCKET.SurMessageReçu( Client, jsMessage )
+         type : 196631
+       -
+         code : |1-
+          PROCEDURE Deconnexion( Client est un websocketClient )
+          
+          	// Traite la déconnexion
+          	COL_WEBSOCKET.SurDéconnexion( Client )		
+         type : 196630
+       -
+         code : |1-
+          
+          	// Informe tous les clients de l'arrêt du serveur
+          	jsNotification est un json
+          	jsNotification.event = "server_shutdown"
+          	jsNotification.data  = allouer un JSON
+          	
+          	COL_WEBSOCKET.WebsocketEnvoieTous( jsNotification )
+         type : 196632
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WW_Websocket_WTT26
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
